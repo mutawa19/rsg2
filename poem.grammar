@@ -1,0 +1,25 @@
+The Poem grammar
+{
+<start>
+    The ​<object>​ ​<verb>​ tonight. ;
+    A <object> <verb>. ;
+    To <verb> or not to <verb> that is the <object>. ;
+    This is the way I <verb> to <object> and <object>. ;
+}
+{
+<object>
+    waves ;
+    big yellow flowers ; slugs ;
+}
+{
+<verb>
+    sigh ​<adverb>​ ;
+    portend like ​<object>​;
+    die ​<adverb>​ ;
+    is not a <object>;
+}
+{
+<adverb>
+    warily ;
+    grumpily ;
+}
